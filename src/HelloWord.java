@@ -6,4 +6,3 @@ public class HelloWord {
 	}
 
 }
-git clone https://github.com/pierre-gerard/hello-world
